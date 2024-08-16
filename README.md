@@ -23,5 +23,5 @@ Tenho 15 anos, moro no Rio Grande do Sul e me interesso muito pela área da tecn
 </div>
 
 ### 📧 Contatos
-Você pode falar comigo pelo Email: anabeatrizarteiro@gmail.com
+Você pode falar comigo pelo Email: anabeatrizarteiro@gmail.com <br>
 Você também pode se conectar comigo pelo linkedin: https://www.linkedin.com/in/ana-beatriz-arteiro-barreiro-42a54a303/overlay/about-this-profile/
