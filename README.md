@@ -4,7 +4,7 @@ Tenho 15 anos, moro no Rio Grande do Sul e me interesso muito pela área da tecn
 
 - 💻 Atualmente estou aprendendo HTML, CSS e JS.
 - 🙋‍♀️ Cursando o Ensino Médio técnico em Informática no Senac-RS.
-- 📲 Cursando Programação em Front-End com HTML e CSS.
+- 📲 Programação em Front-End com HTML e CSS.
 - 🎙️ Inglês nível avançado.
 
 ### 🖥️ Conhecimentos: 
