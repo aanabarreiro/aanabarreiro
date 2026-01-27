@@ -1,11 +1,10 @@
 ### Oiê! Eu sou a Ana 👋
 
-Tenho 16 anos, moro no Rio Grande do Sul e me interesso muito pela área da tecnologia! Esse universo entrou na minha vida a pouco tempo e me conquistou de imediato. Sempre buscando novas experiências e inovações, estou no processo de aprendizagem da programção básica.
+Tenho 17 anos, moro no Rio Grande do Sul e me interesso muito pela área da tecnologia! Esse universo entrou na minha vida e me conquistou de imediato. Sempre buscando novas experiências e inovações, estou no processo de aprendizagem da programção básica.
 
-- 💻 Atualmente estou aprendendo HTML, CSS e JS.
+- 💻 Atualmente estou aprendendo Angular, TypeScript e JSON.
 - 🙋‍♀️ Cursando o Ensino Médio técnico em Informática no Senac-RS.
-- 📲 Desenvolvimento em Front-End com HTML e CSS.
-- 🎙️ Inglês nível avançado.
+- 🎙️ Inglês C1.
 
 ### 🖥️ Conhecimentos: 
 
